@@ -1,0 +1,92 @@
+c:\users\pedro\documents\visual studio 2015\Projects\Satco1\Satco1\bin\Debug\Satco1.exe.config
+c:\users\pedro\documents\visual studio 2015\Projects\Satco1\Satco1\bin\Debug\Satco1.exe
+c:\users\pedro\documents\visual studio 2015\Projects\Satco1\Satco1\bin\Debug\Satco1.pdb
+c:\users\pedro\documents\visual studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.PRINCIPAL.resources
+c:\users\pedro\documents\visual studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.Properties.Resources.resources
+c:\users\pedro\documents\visual studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.RegistrarCliente.resources
+c:\users\pedro\documents\visual studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.VeryActualizarCliente.resources
+c:\users\pedro\documents\visual studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.csproj.GenerateResource.Cache
+c:\users\pedro\documents\visual studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.exe
+c:\users\pedro\documents\visual studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.pdb
+C:\Users\PEDRO\Documents\Visual Studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.ActualizarInferiores.resources
+C:\Users\PEDRO\Documents\Visual Studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.ActualizarServicio.resources
+C:\Users\PEDRO\Documents\Visual Studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.ActualizarSuperiores.resources
+C:\Users\PEDRO\Documents\Visual Studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.Ayuda.resources
+C:\Users\PEDRO\Documents\Visual Studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.CrearServicio.resources
+C:\Users\PEDRO\Documents\Visual Studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.IngresarMediInferiores.resources
+C:\Users\PEDRO\Documents\Visual Studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.IngresarMediSuperiores.resources
+C:\Users\PEDRO\Documents\Visual Studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.RegistrarPedido.resources
+C:\Users\PEDRO\Documents\Visual Studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.RegistrarVenta.resources
+C:\Users\PEDRO\Documents\Visual Studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.VerPedidos.resources
+C:\Users\PEDRO\Documents\Visual Studio 2015\Projects\Satco1\Satco1\obj\Debug\Satco1.VerVentas.resources
+E:\C#\Satco1\Satco1\bin\Debug\Satco1.exe.config
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.exe
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.pdb
+E:\C#\Satco1\Satco1\bin\Debug\Satco1.exe
+E:\C#\Satco1\Satco1\bin\Debug\Satco1.pdb
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.csprojResolveAssemblyReference.cache
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.ActualizarInferiores.resources
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.ActualizarServicio.resources
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.ActualizarSuperiores.resources
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.Ayuda.resources
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.CrearServicio.resources
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.PRINCIPAL.resources
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.IngresarMediInferiores.resources
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.IngresarMediSuperiores.resources
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.Properties.Resources.resources
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.RegistrarCliente.resources
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.RegistrarPedido.resources
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.RegistrarVenta.resources
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.VerPedidos.resources
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.VerVentas.resources
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.VeryActualizarCliente.resources
+E:\C#\Satco1\Satco1\obj\Debug\Satco1.csproj.GenerateResource.Cache
+E:\C#\Satco1\Satco1\bin\Debug\MySql.Data.dll
+E:\C#\Satco1\satco\Satco1\bin\Debug\Satco1.exe.config
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.exe
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.pdb
+E:\C#\Satco1\satco\Satco1\bin\Debug\Satco1.exe
+E:\C#\Satco1\satco\Satco1\bin\Debug\Satco1.pdb
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.csprojResolveAssemblyReference.cache
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.ActualizarInferiores.resources
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.ActualizarServicio.resources
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.ActualizarSuperiores.resources
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.Ayuda.resources
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.CrearServicio.resources
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.PRINCIPAL.resources
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.IngresarMediInferiores.resources
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.IngresarMediSuperiores.resources
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.Properties.Resources.resources
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.RegistrarCliente.resources
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.RegistrarPedido.resources
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.RegistrarVenta.resources
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.VerPedidos.resources
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.VerVentas.resources
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.VeryActualizarCliente.resources
+E:\C#\Satco1\satco\Satco1\obj\Debug\Satco1.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\bin\Debug\Satco1.exe.config
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.exe
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.pdb
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\bin\Debug\Satco1.exe
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\bin\Debug\Satco1.pdb
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.ActualizarInferiores.resources
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.ActualizarServicio.resources
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.ActualizarSuperiores.resources
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.Ayuda.resources
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.CrearServicio.resources
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.PRINCIPAL.resources
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.IngresarMediInferiores.resources
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.IngresarMediSuperiores.resources
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.RegistrarCliente.resources
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.RegistrarPedido.resources
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.RegistrarVenta.resources
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.VerPedidos.resources
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.VerVentas.resources
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.VeryActualizarCliente.resources
+C:\Users\APRENDIZ\Desktop\proyecto\Satco1\obj\Debug\Satco1.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\Nuevo repositorio\Satco1\bin\Debug\Satco1.exe.config
+C:\Users\APRENDIZ\Desktop\Nuevo repositorio\Satco1\obj\Debug\Satco1.exe
+C:\Users\APRENDIZ\Desktop\Nuevo repositorio\Satco1\obj\Debug\Satco1.pdb
